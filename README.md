@@ -1,5 +1,3 @@
-# PyTorch Exploration and Neural Networks
-
 ## Project Overview
 
 This project was completed as part of my AI/ML internship to explore the fundamentals of **PyTorch** and understand how neural networks are built and trained. The notebook contains hands-on experiments covering PyTorch syntax, tensor operations, automatic differentiation, model creation, and the complete neural network training workflow.
